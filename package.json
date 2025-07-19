@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-sign-api",
+  "version": "1.0.0",
+  "main": "sign.js",
+  "type": "module",
+  "scripts": {
+    "start": "node sign.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
